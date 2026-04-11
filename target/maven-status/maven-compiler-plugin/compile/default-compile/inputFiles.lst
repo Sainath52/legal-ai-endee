@@ -1,0 +1,9 @@
+/workspaces/legal-ai-app/src/main/java/com/legalai/controller/SearchController.java
+/workspaces/legal-ai-app/src/main/java/com/legalai/model/VectorData.java
+/workspaces/legal-ai-app/src/main/java/com/legalai/service/RAGService.java
+/workspaces/legal-ai-app/src/main/java/com/legalai/LegalAIApplication.java
+/workspaces/legal-ai-app/src/main/java/com/legalai/model/SearchResponse.java
+/workspaces/legal-ai-app/src/main/java/com/legalai/model/SearchResult.java
+/workspaces/legal-ai-app/src/main/java/com/legalai/service/EndeeService.java
+/workspaces/legal-ai-app/src/main/java/com/legalai/model/SearchRequest.java
+/workspaces/legal-ai-app/src/main/java/com/legalai/service/EmbeddingService.java

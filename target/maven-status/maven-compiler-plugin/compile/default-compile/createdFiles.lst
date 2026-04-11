@@ -1,0 +1,9 @@
+com/legalai/model/SearchRequest.class
+com/legalai/service/EndeeService.class
+com/legalai/service/EmbeddingService.class
+com/legalai/model/SearchResponse.class
+com/legalai/LegalAIApplication.class
+com/legalai/model/VectorData.class
+com/legalai/controller/SearchController.class
+com/legalai/service/RAGService.class
+com/legalai/model/SearchResult.class
